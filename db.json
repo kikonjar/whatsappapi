@@ -4,16 +4,6 @@
     "total_pages": 1,
     "total_messages": 1,
     "data": [
-        {
-            "message_date": "20200413",
-            "message_hour": "102137",
-            "message_text": "Hola Marta",
-            "message_type": "OPE",
-            "message_user": "Agente Javier Roman",
-            "message_channel": "telefono",
-            "has_attachment": "N",
-            "attachment_link": "",
-            "attachment_type": ""
-        }
+
     ]
 }
