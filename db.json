@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Hola Hey"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    result: 0,
+    current_page: 1,
+    total_pages: 1,
+    total_messages: 1,
+    data: []
 }
