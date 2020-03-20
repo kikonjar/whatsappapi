@@ -1,7 +1,19 @@
 {
-    result: 0,
-    current_page: 1,
-    total_pages: 1,
-    total_messages: 1,
-    data: []
+    "result": 0,
+    "current_page": 1,
+    "total_pages": 1,
+    "total_messages": 1,
+    data: [
+        {
+            "message_date": '20200413',
+            "message_hour": '10:21:37',
+            "message_text": 'Hola Marta, encantado de saludarte. Mi nombre es Javier y voy a tramitar su petición. Por favor, ¿Puede indicarme a qué dirección debemos enviar el duplicado de su póliza ?',
+            "message_type": 'OPE',
+            "message_user": "Agente Javier Román",
+            "message_channel": "teléfono",
+            "has_attachment": "N",
+            "attachment_link": '',
+            "attachment_type": ''
+        }
+    ]
 }
